@@ -1,6 +1,8 @@
 # Skills by Rowdy Vass
 
-Practical AI skills for product thinking, starting with **BOLDER**: six lenses for imagining a more ambitious product idea and finding a useful first test.
+A growing collection of practical AI skills for thinking, building, and learning. Each skill includes reusable instructions and a quick way to get started.
+
+**Available now:** [BOLDER](#bolder-think-bigger-about-a-product-idea) — explore more ambitious product ideas and find a useful first test.
 
 ## BOLDER: think bigger about a product idea
 
@@ -15,7 +17,7 @@ BOLDER helps product managers, founders and builders push an idea past its first
 | **E — Enable Others** | What could others accomplish if we gave them this capability? |
 | **R — Rethink Constraints** | What are we treating as a requirement that might only be a convention? |
 
-## Get started
+## Use BOLDER
 
 - **Claude:** [Download bolder.zip](https://github.com/rowdyvass/skills/raw/refs/heads/main/bolder.zip), then follow the installation steps below.
 - **ChatGPT, Gemini or another assistant:** [Open the plain-text instructions](bolder-instructions.md), copy the contents, and paste them into a new chat before describing your idea.
@@ -40,7 +42,7 @@ For a single session, paste the [plain-text instructions](bolder-instructions.md
 
 In the Gemini web app, open **Gems → New Gem**, name it **BOLDER**, paste the [plain-text instructions](bolder-instructions.md) into its instructions, and save. You can also paste the instructions directly into a new chat. See [Google's current Gem guide](https://support.google.com/gemini/answer/15146780?co=GENIE.Platform%3DDesktop&hl=en).
 
-## Try it
+## Try BOLDER
 
 Share your idea in a sentence or two, who it is for, and what makes the bigger version feel unrealistic. For example:
 
