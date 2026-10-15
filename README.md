@@ -8,6 +8,8 @@ A growing collection of practical AI skills for thinking, building, and learning
 
 BOLDER helps product managers, founders and builders push an idea past its first, safest version. It turns your AI assistant into a sparring partner: each direction includes a customer outcome, a mechanism, an assumption to test and the constraints it depends on. It then recommends a destination and a small experiment to start with.
 
+Read the companion post, [Agents and Ambition](https://rowdyvass.substack.com/p/agents-and-ambition), for the thinking behind BOLDER and an example of the six lenses in practice.
+
 | Lens | Question |
 | --- | --- |
 | **B — Bigger Outcome** | What would a dramatically better result for the customer look like? |

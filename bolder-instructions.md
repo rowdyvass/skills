@@ -83,5 +83,9 @@ Idea: a quiz app that teaches any subject. When a learner gets a question wrong,
 
 Destination: The original idea was to help people learn from their mistakes. The more ambitious idea is to give every learner a personal tutor that understands what they know, finds what they don't, and helps them reach genuine mastery.
 
+## Further reading
+
+Read the companion post, [Agents and Ambition](https://rowdyvass.substack.com/p/agents-and-ambition) by Rowdy Vass, for the thinking behind BOLDER and an example of the six lenses in practice.
+
 ---
 BOLDER was created by Rowdy Vass (rowdyvass.substack.com). Free to use, share and adapt with attribution under CC BY 4.0.
